@@ -6,19 +6,19 @@ In my free time, I love listening to music or playing chess 😊 <br>
 
 ### 📚 My current stack includes:
 
-Solidity, Ethersjs, Web3Js, Truffle, Hardhat and more - Blockchain/Web3 Development <br>
-React, React Native, NextJs, Tailwind, Bootstrap, Redux and more - Frontend/Mobile App development. <br>
-NodeJs, ExpressJs, MongoDB, GraphQL, Redis - Backend Development <br>
+Solidity, Ethersjs, Web3Js, Hardhat, etc. - Blockchain/Web3 Development <br>
+React, React Native, NextJs, Tailwind, Bootstrap, Redux, etc. - Frontend development. <br>
+NodeJs, ExpressJs, MongoDB, GraphQL, Redis, etc - Backend Development <br>
 Jest and Chai - Unit and Integrations Testing. <br>
 There's other stuff but this list is already too long so you can check them out at: <br>
 [My Resume 🧾](https://drive.google.com/file/d/1S0myL39LNDFXdpuZQLh1GNNeBN4hx3hK/view?usp=sharing) or
 [My website 👨‍💻](https://www.thechidiebere.com).<br>
 
-### My work
+### ⚒ My work
 
 You can find most of my work that's not covered by NDAs here on github or at my [Projects Catalog](https://docs.google.com/document/d/1mOgn7CP1zsRRNLGc2eRUn_b_cvmVIi1FAbnlrVT9Pns/edit?usp=sharing)<br>
 
-Wanna collaborate? Spin me up an email or dm on on twitter 👍<br>
+🤝 Wanna collaborate? Send an email me or dm me on twitter 👍<br>
 
 [![Chidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davien21&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)
 
