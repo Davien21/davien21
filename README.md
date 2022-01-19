@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-Hi there 👋 
-I'm Chidiebere, a software developer with over 3 years of working experience.
-I love to build beautiful and highly performant applications and interfaces using whatever tools are needed. In my free time, I love listening to music or playing chess 😊
+I'm Chidiebere, a software developer with over 3 years of working experience.    <br>
+I love to build beautiful and highly performant applications and interfaces using whatever tools are needed. <br>
+In my free time, I love listening to music or playing chess 😊 <br><br>
 
-📚 My current stack includes:
-Solidity, Ethersjs, Web3Js, Truffle, Hardhat and more - Blockchain/Web3 Development 
-React, React Native, NextJs, Tailwind, Bootstrap, Redux and more - Frontend/Mobile App development.
-NodeJs, ExpressJs, MongoDB, GraphQL, Redis, 
-Jest and Chai - Unit and Integrations Testing.
+📚 My current stack includes:   
+Solidity, Ethersjs, Web3Js, Truffle, Hardhat and more - Blockchain/Web3 Development   <br>
+React, React Native, NextJs, Tailwind, Bootstrap, Redux and more - Frontend/Mobile App development.    <br>
+NodeJs, ExpressJs, MongoDB, GraphQL, Redis - Backend Development   <br>
+Jest and Chai - Unit and Integrations Testing. <br>
 There's other stuff but this list is already too long so check out some more stuff at
-🧾 [![My Resume](https://drive.google.com/file/d/1S0myL39LNDFXdpuZQLh1GNNeBN4hx3hK/view?usp=sharing) or 
-👨‍💻 [![My website](https://www.thechidiebere.com/).
+🧾 [![My Resume](https://drive.google.com/file/d/1S0myL39LNDFXdpuZQLh1GNNeBN4hx3hK/view?usp=sharing)] or <br>
+👨‍💻 [![My website](https://www.thechidiebere.com/)].<br><br>
 
-You can find most of my work that's not covered by NDAs here on github or at:
-[![Projects Catalog](https://docs.google.com/document/d/1mOgn7CP1zsRRNLGc2eRUn_b_cvmVIi1FAbnlrVT9Pns/edit?usp=sharing)
+You can find most of my work that's not covered by NDAs here on github or at:<br>
+[![Projects Catalog](https://docs.google.com/document/d/1mOgn7CP1zsRRNLGc2eRUn_b_cvmVIi1FAbnlrVT9Pns/edit?usp=sharing)<br><br>
 
-Wanna collaborate? Spin me up an email or dm on on twitter 👍
+Wanna collaborate? Spin me up an email or dm on on twitter 👍<br><br>
 
 [![Chidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davien21&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)
 
