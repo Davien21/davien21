@@ -14,7 +14,7 @@ There's other stuff but this list is already too long so you can check them out 
 [My Resume 🧾](https://drive.google.com/file/d/1S0myL39LNDFXdpuZQLh1GNNeBN4hx3hK/view?usp=sharing) or
 [My website 👨‍💻](https://www.thechidiebere.com).<br>
 
-### ⚒ My work
+### ⚒ My work:
 
 You can find most of my work that's not covered by NDAs here on github or at my [Projects Catalog](https://docs.google.com/document/d/1mOgn7CP1zsRRNLGc2eRUn_b_cvmVIi1FAbnlrVT9Pns/edit?usp=sharing)<br>
 
