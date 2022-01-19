@@ -6,9 +6,9 @@ In my free time, I love listening to music or playing chess 😊 <br>
 
 ### 📚 My current stack includes:
 
-Solidity, Ethersjs, Web3Js, Hardhat, etc. - Blockchain/Web3 Development <br>
-React, React Native, NextJs, Tailwind, Bootstrap, Redux, etc. - Frontend development. <br>
-NodeJs, ExpressJs, MongoDB, GraphQL, Redis, etc - Backend Development <br>
+**Solidity**, **Ethersjs**, **Web3Js**, **Hardhat**, etc. - Blockchain/Web3 Development <br>
+**React**, React **Native**, **NextJs**, **Tailwind**, **Bootstrap**, **Redux**, etc. - Frontend development. <br>
+**NodeJs**, **ExpressJs**, **MongoDB**, **GraphQL**, **Redis**, etc - Backend Development <br>
 Jest and Chai - Unit and Integrations Testing. <br>
 There's other stuff but this list is already too long so you can check them out at: <br>
 [My Resume 🧾](https://drive.google.com/file/d/1S0myL39LNDFXdpuZQLh1GNNeBN4hx3hK/view?usp=sharing) or
