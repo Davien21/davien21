@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chidiebere, a software developer with over 3 years of working experience. <br>
+I'm Chidiebere, a software developer with over 4 years of working experience. <br>
 I love to build beautiful and highly performant applications and interfaces using whatever tools are needed. <br>
 In my free time, I love listening to music or playing chess 😊 <br>
 
