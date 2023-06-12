@@ -11,7 +11,7 @@ In my free time, I love listening to music or playing chess 😊 <br>
 **NodeJs**, **ExpressJs**, **MongoDB**, **GraphQL**, **Redis**, etc - Backend Development <br>
 **Jest**, **Mocha** and **Chai** - Unit and Integrations Testing. <br>
 There's other stuff but this list is already too long so you can check them out at: <br>
-[My Resume 🧾](https://drive.google.com/file/d/1S0myL39LNDFXdpuZQLh1GNNeBN4hx3hK/view?usp=sharing) or
+[My Resume 🧾](https://read.cv/davien21) or
 [My website 👨‍💻](https://www.thechidiebere.com).<br>
 
 ### ⚒ My work:
