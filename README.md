@@ -9,7 +9,7 @@ In my free time, I love listening to music or playing chess 😊 <br>
 **Solidity**, **Ethersjs**, **Web3Js**, **Hardhat**, etc. - Blockchain/Web3 Development <br>
 **Ruby on rails**, **React**, **Angular**, **React Native**, **NextJs**, **Tailwind**, **Bootstrap**, **Redux**, etc. - Frontend development. <br>
 **NodeJs**, **ExpressJs**, **MongoDB**, **GraphQL**, **Redis**, etc - Backend Development <br>
-**Jest**/**Vitest**, **MSW**, **Mocha** and **Chai** - Unit and Integrations Testing. <br>
+**Jest**/**Vitest**, **MSW**, **Mocha**, **React testing library** and **Chai** - Unit and Integrations Testing. <br>
 **Playwright** - End to End testing.  
 There's other stuff but this list is already too long so you can check them out at: <br>
 [My Resume 🧾](https://read.cv/davien21) or
