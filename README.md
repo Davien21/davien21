@@ -16,7 +16,7 @@ In my free time, I love listening to music or playing chess 😊 <br>
 
 You can find some of my other work here on github or at my [Projects Catalog](https://docs.google.com/document/d/1mOgn7CP1zsRRNLGc2eRUn_b_cvmVIi1FAbnlrVT9Pns/edit?usp=sharing)<br>
 
-🤝 Wanna collaborate? Send me an email me 👍<br>
+🤝 Wanna collaborate? Connect with me on LinkedIn 👍<br>
 
 [![Chidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davien21&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)
 
